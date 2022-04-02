@@ -24,6 +24,9 @@ $ cd html-Obfuscator
 $ make ubuntu
 ```
 
+## [result](https://github.com/Bayu12345677/html-Obfuscator/)
+![pp](https://github.com/Bayu12345677/html-Obfuscator/blob/master/image/Screenshot%20(3).png)
+
 ```python
 untuk cara manjalankan nya -> make run
 ```
