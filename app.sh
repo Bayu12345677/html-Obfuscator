@@ -52,7 +52,7 @@ def: txt.hex:(){
 	global: string = "$@"; # berfungsi menamai sebuah argument
 	let start=0; # perulangan di mulai dari zero (nol)
 	let end=${#string};  # perulangan berakhir sesuai panjang variable string
-	unset value_str; # unser variable value_str
+	unset value_str; # unset variable value_str
 
 	# system loop nya
 	for ((i = start; i <= end; i++)); do
