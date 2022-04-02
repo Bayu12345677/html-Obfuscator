@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-Bash.import: fake_useragent/HTTP.UA
-Bash.import: tor__socks__/__torlib__
+#Bash.import: fake_useragent/HTTP.UA
+#Bash.import: tor__socks__/__torlib__
 bi=$(mode.bold: biru)    cy=$(mode.bold: cyan)
   ij=$(mode.bold: hijau)  hi=$(mode.normal: hitam)
    me=$(mode.bold: merah)  un=$(mode.bold: ungu)
