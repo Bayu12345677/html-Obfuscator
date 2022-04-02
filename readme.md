@@ -1,7 +1,6 @@
-# Lammo Evil
+# Html Obfuscator
 
-lammo evil adalah sebuah alat spamming yg berbasis aplication cli
-dengan menipulasi halaman login otp lammo shop sebagai mesin spam nya
+Html obfuscator adalah alat encode sebuah source html yg di bangun menggunakan bash script dengan metode encrypt url
 
 untuk cara penginstallan nya
 
@@ -10,8 +9,8 @@ untuk cara penginstallan nya
 $ pkg update
 $ pkg upgrade
 $ pkg install git
-$ git clone https://github.com/Speedrun-bash/Lammo-evil
-$ cd Lammo-evil
+$ git clone https://github.com/Speedrun-bash/html-Obfuscator
+$ cd html-Obfuscator
 $ make termux
 ```
 
@@ -20,14 +19,14 @@ $ make termux
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install git
-$ git clone https://github.com/Speedrun-bash/Lammo-evil
-$ cd Lammo-evil
+$ git clone https://github.com/Speedrun-bash/html-Obfuscator
+$ cd html-Obfuscator
 $ make ubuntu
 ```
 
-> untuk cara manjalankan nya
-
-<li><code>make run</code></li>
+```python
+untuk cara manjalankan nya -> make run
+```
 
 <li><code><a href="https://www.youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg">subscribe</a> pejuang kentang</code></li>
 
